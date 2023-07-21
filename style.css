@@ -1,0 +1,120 @@
+body {
+    background-color: #232731;
+}
+
+.head {
+    color: aliceblue;
+    margin-top: 50px;
+    font-size: 1.5rem;
+    display: flex;   
+    flex-wrap: wrap;
+}
+
+.wri {
+    padding-left: 20%;
+}
+
+.cate {
+    padding-left: 25%;
+}
+
+.art {
+    padding-left: 5%;
+}
+
+.abo {
+    padding-left: 5%;
+}
+
+.topic {
+    margin-top: 5%;
+    text-align: center;
+    color: aliceblue;
+}
+
+.inkimag {
+    width: 200px;
+    height: 200px;
+}
+
+.h22 {
+    color: #FF7076;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0px;
+    font-size: 3rem;
+}
+
+.pp {
+    margin-top: 0px;
+}
+
+.container {
+    margin-top: 7%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 5rem;
+}
+
+.tpimg {
+    width: 350px;
+    height: 200px;
+    border-radius: 25px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 30px;
+}
+
+.box {
+    background-color: aliceblue;
+    width: 400px;
+    height: 500px;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.para {
+    text-align: left;
+    margin: 30px;
+}
+
+.foot {
+    margin-bottom: 0px;
+    height: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.conn {
+    color: aliceblue;
+    margin-right: 0px;
+    margin-left: 20%;
+}
+
+.deep {
+    margin-left: 10px;
+}
+
+.bluewh {
+    color: aliceblue;
+    background-color: rgb(55, 148, 184);
+    height: fit-content;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 5px;
+}
+
+.follow {
+    margin-left: 40%;
+}
